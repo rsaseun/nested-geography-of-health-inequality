@@ -1,0 +1,18 @@
+# Python >= 3.11 (tested with 3.12-3.13)
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13
+scikit-learn>=1.5
+statsmodels>=0.14
+geopandas>=0.14,<1.0    # 0.14 bundles the Natural Earth 'naturalearth_lowres' layer used for maps
+shapely>=2.0
+libpysal>=4.10
+esda>=2.5
+spreg>=1.5
+matplotlib>=3.8
+python-docx>=1.1
+openpyxl>=3.1
+pillow>=10.0
+# Versions used for the published results:
+# numpy 2.5.3, pandas 3.0.5, scipy 1.18.1, scikit-learn 1.9.1, statsmodels 0.15.0, geopandas 0.14.4,
+# shapely 2.2.0, libpysal 4.14.1, esda 2.9.0, spreg 1.9.1, matplotlib 3.11.2, python-docx 1.2.0, openpyxl 3.1.5
